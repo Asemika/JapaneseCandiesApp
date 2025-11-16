@@ -1,0 +1,20 @@
+body {
+    background-color: cornsilk;
+    font-family: "Andale Mono";
+}
+.header {
+    height: 200px;
+    width: 100%;
+    background-color: #ac84d1;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    /*border-width: 30px;*/
+    border-color: #740c7c;
+}
+.main {
+    text-align: center;
+    border: black;
+    color: #e9b2fa;
+
+
+}
